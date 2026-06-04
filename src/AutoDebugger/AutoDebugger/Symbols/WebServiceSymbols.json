@@ -1,0 +1,59 @@
+{
+  "service": "sample-service",
+  "env": "local",
+  "version": "1.0.0",
+  "language": "dotnet",
+  "scopes": [
+    {
+      "scope_type": "assembly",
+      "name": "SampleService",
+      "source_file": "C:\\src\\SampleService\\bin\\Debug\\net8.0\\SampleService.dll",
+      "start_line": 0,
+      "end_line": 0,
+      "language_specifics": null,
+      "symbols": null,
+      "scopes": [
+        {
+          "scope_type": "class",
+          "name": "SampleService.Services.RoomService",
+          "source_file": "C:\\src\\SampleService\\Services\\RoomService.cs",
+          "start_line": 1,
+          "end_line": 28,
+          "language_specifics": {
+            "super_classes": [
+              "System.Object"
+            ],
+            "pdb_exist": true
+          },
+          "symbols": [],
+          "scopes": [
+            {
+              "scope_type": "method",
+              "name": "BookRoom",
+              "source_file": "C:\\src\\SampleService\\Services\\RoomService.cs",
+              "start_line": 8,
+              "end_line": 18,
+              "language_specifics": {
+                "access_modifiers": [
+                  "public"
+                ],
+                "return_type": "System.Boolean",
+                "start_column": 9,
+                "end_column": 10
+              },
+              "symbols": [
+                {
+                  "name": "roomId",
+                  "type": "System.String",
+                  "symbol_type": "arg",
+                  "line": 8
+                }
+              ],
+              "scopes": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
