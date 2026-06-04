@@ -8,8 +8,6 @@
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
 [![Semantic Kernel](https://img.shields.io/badge/Microsoft-Semantic%20Kernel-5C2D91)](https://github.com/microsoft/semantic-kernel)
 
-[Report an issue](https://github.com/dudikeleti/auto-debugger/issues)
-
 </div>
 
 ---
