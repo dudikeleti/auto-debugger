@@ -20,7 +20,7 @@
 
 It was built to explore how LLM tooling can close the loop between *static* reasoning and *dynamic* evidence—without replacing human judgment.
 
-This project started as an R&D-week exploration in the early Semantic Kernel agents era, when the agent APIs were still experimental alpha packages and before MCP or today's coding-agent workflows became common. The implementation reflects the tools available at the time, but the core idea is still the interesting part: connect code inspection, runtime evidence, and iterative debugging actions in one loop.
+The initial version was written around mid-2023, before MCP and today's coding-agent workflows became common. It was later adapted for a December 2023 R&D-week presentation and has had dependency updates since, so the current package versions are not the original timeline. The core idea is still the interesting part: connect code inspection, runtime evidence, and iterative debugging actions in one loop.
 
 ---
 
