@@ -176,8 +176,7 @@ Each capability is exposed to the model as a **Semantic Kernel** plugin backed b
 
 - This is an **R&D / week-project** prototype rather than a maintained product.
 - Some implementation details reflect the state of LLM and Semantic Kernel tooling at the time it was built.
-- **Symbol graph** quality depends on your `WebServiceSymbols.json` (or equivalent export).
-- **Find Usages** is a simple text search, not Roslyn-accurate reference analysis.
+- **Symbol graph** quality depends on your symbol export.
 - **Git commit** and **diff** flows are intentionally lightweight.
 
 ---
