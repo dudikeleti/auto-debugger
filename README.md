@@ -20,7 +20,7 @@
 
 It was built to explore how LLM tooling can close the loop between *static* reasoning and *dynamic* evidence—without replacing human judgment.
 
-The initial version was written around mid-2023, before MCP and today's coding-agent workflows became common. It was later adapted for a December 2023 R&D-week presentation and has had dependency updates since, so the current package versions are not the original timeline. The core idea is still the interesting part: connect code inspection, runtime evidence, and iterative debugging actions in one loop.
+The initial version was written around mid-2023, in the ChatGPT 3.5 era, before MCP and today's coding-agent workflows became common. It explored how an agent could combine code inspection, runtime evidence, and iterative debugging actions in one loop.
 
 ---
 
